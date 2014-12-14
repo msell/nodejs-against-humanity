@@ -1,6 +1,6 @@
 {
   "name": "nodejs-against-humanity",
-  "version": "1.0.0-14",
+  "version": "1.0.0-16",
   "description": "Cards Against Humanities implemented in NodeJS",
   "main": "server.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "redis-url": "0.1.0",
     "request": "~2.27.0"
   },
-  "subdomain": "nah-amir-rajan",
+  "subdomain": "inhumanecardgame",
   "engines": {
     "node": "0.10.x"
   }
